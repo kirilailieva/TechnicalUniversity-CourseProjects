@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "201f657d-1538-46fd-8c5b-c34cf3bd79ae": {
+      "ProjectGuid": "201f657d-1538-46fd-8c5b-c34cf3bd79ae",
+      "DisplayName": "Kikk",
+      "ColorIndex": 0
+    },
+    "86f7a78c-4a25-4a9f-95b8-17a50869d12c": {
+      "ProjectGuid": "86f7a78c-4a25-4a9f-95b8-17a50869d12c",
+      "DisplayName": "StudentsLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
